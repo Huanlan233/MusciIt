@@ -1,6 +1,6 @@
 $setblock 28438400 257 28438400 $(id)
 
-data modify storage muit:cache2 Cache.Timbres set from storage muit:timbres Root.Timbres
+data modify storage muit:cache2 Cache.Timbres set from storage muit:timbre Root.Timbres
 
 scoreboard objectives add muit.cache1 dummy
 

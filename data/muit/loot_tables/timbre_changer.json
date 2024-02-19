@@ -17,7 +17,7 @@
               },
               {
                 "function": "set_nbt",
-                "tag": "{Muit:{timbre_changer:1b},Unbreakable:1b,Enchantments:[{id:\"minecraft:binding_curse\",lvl:1s}],HideFlags:255}"
+                "tag": "{Muit:{timbre_changer:1b,timbre_changer_init:1b},Unbreakable:1b,Enchantments:[{id:\"minecraft:binding_curse\",lvl:1s}],HideFlags:223,title:\"音色调整器\",author:\"MusicIt\",pages:['{\"text\":\"Initializing.\"}']}"
               }
             ]
           }
