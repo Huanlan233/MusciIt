@@ -1,0 +1,14 @@
+{
+    "values": [
+        "#base_stone_overworld",
+        "#base_stone_nether",
+        "#stone_pressure_plates",
+        "end_stone",
+        "smooth_stone",
+        "quartz_block",
+        "cobblestone",
+        "observer",
+        "dispenser",
+        "dropper"
+    ]
+}

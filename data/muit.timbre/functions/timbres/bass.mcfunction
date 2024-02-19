@@ -1,3 +1,0 @@
-data modify storage muit:timbres Root.Timbres append value {"name":"Minecraft Bass","block_id":"#minecraft:oak_logs","timbre_id":"minecraft:block.note_block.bass"}
-data modify storage muit:timbres Root.Timbres append value {"name":"Minecraft Bass","block_id":"#minecraft:planks","timbre_id":"minecraft:block.note_block.bass"}
-data modify storage muit:timbres Root.Timbres append value {"name":"Minecraft Bass","block_id":"minecraft:note_block","timbre_id":"minecraft:block.note_block.bass"}
