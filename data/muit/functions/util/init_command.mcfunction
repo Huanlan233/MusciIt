@@ -1,0 +1,1 @@
+$data modify block ~ ~ ~ Command set value "playsound block.note_block.harp record @a ~ ~ ~ 100 $(tone)"

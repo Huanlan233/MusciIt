@@ -1,0 +1,27 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "item",
+            "name": "minecraft:carrot_on_a_stick",
+            "functions": [
+              {
+                "function": "set_name",
+                "name": {
+                  "color": "red",
+                  "text": "Muit 编辑器",
+                  "italic": false
+                }
+              },
+              {
+                "function": "set_nbt",
+                "tag": "{Muit:{muit_wand:1},Unbreakable:1b,Enchantments:[{id:\"minecraft:binding_curse\",lvl:1s}],HideFlags:255}"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

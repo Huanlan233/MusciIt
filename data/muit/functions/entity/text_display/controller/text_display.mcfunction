@@ -1,0 +1,1 @@
+$summon text_display ~ ~1.1 ~ {text:'{"text":"$(note)$(range)"}',billboard:center,Tags:["muit.text_display"]}

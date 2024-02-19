@@ -1,0 +1,27 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "item",
+            "name": "minecraft:book",
+            "functions": [
+              {
+                "function": "set_name",
+                "name": {
+                  "color": "aqua",
+                  "text": "音色调整器",
+                  "italic": false
+                }
+              },
+              {
+                "function": "set_nbt",
+                "tag": "{Muit:{timbre_changer:1b},Unbreakable:1b,Enchantments:[{id:\"minecraft:binding_curse\",lvl:1s}],HideFlags:255}"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

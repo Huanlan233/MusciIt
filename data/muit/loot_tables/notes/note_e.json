@@ -1,0 +1,27 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "item",
+            "name": "minecraft:redstone_lamp",
+            "functions": [
+              {
+                "function": "set_name",
+                "name": {
+                  "color": "aqua",
+                  "text": "Note E",
+                  "italic": false
+                }
+              },
+              {
+                "function": "set_nbt",
+                "tag": "{Muit:{note:'E',basic_tone:0.111362d},Unbreakable:1b,Enchantments:[{id:\"minecraft:binding_curse\",lvl:1s}],HideFlags:255}"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

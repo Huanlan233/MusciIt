@@ -1,0 +1,1 @@
+execute as @a[tag=muit.editor] unless data entity @s Inventory[{Slot:0b}].tag.Muit.range_changer run loot replace entity @s hotbar.0 loot muit:range_changer
