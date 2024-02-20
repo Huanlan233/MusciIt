@@ -1,3 +1,5 @@
+item replace entity @s weapon.offhand with air
+
 $setblock 28438400 257 28438400 $(id)
 
 data modify storage muit:cache2 Cache.Timbres set from storage muit:timbre Root.Timbres
