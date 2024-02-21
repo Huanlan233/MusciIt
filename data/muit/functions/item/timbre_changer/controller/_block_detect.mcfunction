@@ -1,0 +1,1 @@
+$execute store result score @s muit.cache1 if block 28438402 255 28438400 $(block_id)
