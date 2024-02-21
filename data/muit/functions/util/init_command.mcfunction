@@ -1,1 +1,1 @@
-$data modify block ~ ~ ~ Command set value "playsound $(timbre) record @a ~ ~ ~ 100 $(tone)"
+$data modify block ~ ~ ~ Command set value "playsound $(timbre) record @a ~ ~ ~ 1 $(tone)"
