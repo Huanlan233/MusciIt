@@ -17,7 +17,7 @@
               },
               {
                 "function": "set_nbt",
-                "tag": "{Muit:{muit_wand:1},Unbreakable:1b,Enchantments:[{id:\"minecraft:binding_curse\",lvl:1s}],HideFlags:255}"
+                "tag": "{Muit:{muit_editor:1},Unbreakable:1b,Enchantments:[{id:\"minecraft:binding_curse\",lvl:1s}],HideFlags:255}"
               }
             ]
           }
