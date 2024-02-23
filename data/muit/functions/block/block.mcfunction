@@ -1,1 +1,1 @@
-function muit:block/note/controller
+function muit:block/note_block/controller
