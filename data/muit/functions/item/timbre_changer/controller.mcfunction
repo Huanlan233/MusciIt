@@ -1,1 +1,1 @@
-execute as @a[tag=muit.editor] run function muit:item/timbre_changer/controller/replace_timbre0 with entity @s Inventory[{Slot:8b}]
+execute as @a[tag=muit.editor] run function muit:item/timbre_changer/controller/block_item_detect
