@@ -16,6 +16,40 @@
                 }
               },
               {
+                "function": "set_lore",
+                "lore": [
+                  {"text":"[操作说明]","color":"gray","italic":false,"bold": true},
+                  [
+                    {"text":" | ","color":"red","italic":false},
+                    {"text":"","color":"white","extra": [
+                      "按",
+                      {"text":"[F]","color":"gold"},
+                      "以进入编辑模式。"
+                      ]
+                    }
+                  ],
+                  [
+                    {"text":" | ","color":"red","italic":false},
+                    {"text":"","color":"white","extra": [
+                      "从",
+                      {"text":"[头盔格]","color":"gold"},
+                      "拿走以退出编辑模式。"
+                      ]
+                    }
+                  ],
+                  {"text":"[注意事项]","color":"gray","italic":false,"bold": true},
+                  [
+                    {"text":" | ","color":"red","italic":false},
+                    {"text":"","color":"white","extra": [
+                      "进入编辑模式后，",
+                      {"text": "头盔格以及物品栏第一格物品会被替换，从而消失","color": "red"},
+                      "。"
+                      ]
+                    }
+                  ]
+                ]
+              },
+              {
                 "function": "set_nbt",
                 "tag": "{Muit:{muit_editor:1},Unbreakable:1b,Enchantments:[{id:\"minecraft:binding_curse\",lvl:1s}],HideFlags:255}"
               }

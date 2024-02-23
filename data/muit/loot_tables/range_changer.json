@@ -13,7 +13,29 @@
                   "color": "aqua",
                   "text": "音域调整器",
                   "italic": false
-                }
+                },
+                "function": "set_lore",
+                "lore": [
+                  {"text":"[操作说明]","color":"gray","italic":false,"bold": true},
+                  [
+                    {"text":" | ","color":"red","italic":false},
+                    {"text":"","color":"white","extra": [
+                      "按",
+                      {"text":"[F]","color":"gold"},
+                      "以升域。"
+                      ]
+                    }
+                  ],
+                  [
+                    {"text":" | ","color":"red","italic":false},
+                    {"text":"","color":"white","extra": [
+                      "按",
+                      {"text":"[Q]","color":"gold"},
+                      "以降域。"
+                      ]
+                    }
+                  ]
+                ]
               },
               {
                 "function": "set_nbt",
