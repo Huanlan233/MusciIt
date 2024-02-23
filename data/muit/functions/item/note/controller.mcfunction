@@ -1,1 +1,0 @@
-execute as @a[tag=muit.editor] if data entity @s Inventory[{Slot:-106b}].tag.Muit.note run function muit:item/note/controller/sharps
