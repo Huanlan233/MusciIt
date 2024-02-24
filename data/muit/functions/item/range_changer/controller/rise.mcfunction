@@ -17,8 +17,6 @@ setblock 28438401 255 28438400 air
 
 item replace entity @s weapon.offhand with air
 
-scoreboard players add @s muit.rangedetect 1
-
 # 缓存回收
 scoreboard objectives remove muit.cache0
 data remove storage muit:cache0 Cache
