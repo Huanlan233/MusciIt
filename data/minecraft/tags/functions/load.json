@@ -1,6 +1,6 @@
 {
     "values": [
         "muit:load",
-        "#muit.timbre:builtin_timbres"
+        "#muit.timbre:timbres"
     ]
 }
