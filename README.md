@@ -1,4 +1,4 @@
-<center> <img src="./pack.png"> </center>
+<p align="center"> <img src="./pack.png"> </p>
 
 <div align="center">
 
