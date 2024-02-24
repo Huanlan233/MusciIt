@@ -1,6 +1,6 @@
 {
     "values": [
         "muit:load",
-        "muit.timbre:timbres/minecraft_timbres"
+        "#muit.timbre:builtin_timbres"
     ]
 }

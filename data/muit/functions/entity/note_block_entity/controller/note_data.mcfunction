@@ -1,5 +1,5 @@
 # 基础音调
-execute as @e[tag=muit.note_block_entity] store result score @s muit.basic_tone run data get entity @a[limit=1,sort=nearest,tag=muit.editor] SelectedItem.tag.Muit.basic_tone 1000000
+execute as @e[tag=muit.note_block_entity] store result score @s muit.basic_tone run data get entity @a[limit=1,sort=nearest,tag=muit.editor] SelectedItem.tag.Muit.basic_tone 100000000
 
 # 音域
 execute as @e[tag=muit.note_block_entity] run scoreboard players operation @s muit.range = @a[limit=1,sort=nearest,tag=muit.editor] muit.range

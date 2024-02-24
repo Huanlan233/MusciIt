@@ -7,4 +7,4 @@ execute if score @s muit.range matches 5 run scoreboard players operation @s mui
 execute if score @s muit.range matches 6 run scoreboard players operation @s muit.tone *= #32 muit.const
 execute if score @s muit.range matches 7 run scoreboard players operation @s muit.tone *= #64 muit.const
 
-execute store result entity @s data.Muit.tone double 0.000001 run scoreboard players get @s muit.tone
+execute store result entity @s data.Muit.tone double 0.00000001 run scoreboard players get @s muit.tone
