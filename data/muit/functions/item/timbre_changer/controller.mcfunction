@@ -1,1 +1,0 @@
-execute as @a[tag=muit.editor] run function muit:item/timbre_changer/controller/block_item_detect

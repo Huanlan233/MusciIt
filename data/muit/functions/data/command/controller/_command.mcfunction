@@ -1,0 +1,1 @@
+$data modify storage muit:data Root.Data.command set value "/playsound $(timbre) record @a ~ ~ ~ 2 $(tone)"

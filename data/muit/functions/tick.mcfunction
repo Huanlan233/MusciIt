@@ -1,3 +1,4 @@
+function muit:data/data
 function muit:item/item
 function muit:block/block
 function muit:entity/entity

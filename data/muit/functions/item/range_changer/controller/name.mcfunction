@@ -1,6 +1,3 @@
-# Range
-execute as @a[tag=muit.editor] store result score @s muit.range run data get entity @s Inventory[{Slot:0b}].Count
-
 function muit:util/ranges
 
 data modify storage muit:cache0 Cache.ItemName.range set from storage muit:range Root.Range

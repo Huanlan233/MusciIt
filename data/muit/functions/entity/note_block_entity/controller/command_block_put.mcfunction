@@ -1,4 +1,2 @@
 setblock ~ ~ ~ command_block[facing=up]
-function muit:entity/note_block_entity/controller/_command with entity @s data.Muit
-
-function muit:entity/note_block_entity/controller/text_display with entity @s data.Muit
+data modify block ~ ~ ~ Command set from storage muit:data Root.Data.command

@@ -1,0 +1,1 @@
+execute if data entity @s SelectedItem.tag.Muit.note run data modify storage muit:data Root.Data.note set string entity @s SelectedItem.tag.Muit.note
