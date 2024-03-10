@@ -1,6 +1,7 @@
 {
     "values": [
         "muit:load",
+        "muit.str:load",
         "#muit.timbre:timbres"
     ]
 }

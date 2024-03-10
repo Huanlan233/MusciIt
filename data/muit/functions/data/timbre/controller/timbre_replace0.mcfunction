@@ -1,11 +1,7 @@
 data modify storage muit:cache0 Cache.Timbres set from storage muit:timbre Root.Timbres
 
 # 初始化缓存
-scoreboard objectives add muit.cache1 dummy
-$setblock 28438402 255 28438400 $(id)
-
-function muit:data/timbre/controller/timbre_replace1
-
-# 缓存回收
-scoreboard objectives remove muit.cache1
-setblock 28438402 255 28438400 air
+data modify storage muit.str:cache1 Root.Data.id set from entity @s Inventory[{Slot:8b}].id
+data modify storage muit.str:cache1 Root.Input set value '["data modify storage muit:timbre Root.SelectedTimbre set from storage muit:timbre Root.Timbres[{block_id:\'",{"nbt":"Root.Data.id","storage":"muit.str:cache1"},"\'}]"]'
+function muit:data/timbre/controller/merge/timbre_replace0_merge
+schedule function muit:data/timbre/controller/run/timbre_replace0_run 2t

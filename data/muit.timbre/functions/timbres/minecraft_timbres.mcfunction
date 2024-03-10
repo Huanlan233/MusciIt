@@ -1,10 +1,10 @@
 # 仅选取部分方块作为原版音色
 
-data modify storage muit:timbre Root.Timbres append value {"name":"Minecraft Hat","block_id":"#muit.timbre:minecraft_hat","timbre_id":"minecraft:block.note_block.hat"}
+data modify storage muit:timbre Root.Timbres append value {"name":"Minecraft Hat","block_id":"minecraft:glass","timbre_id":"minecraft:block.note_block.hat"}
 
-data modify storage muit:timbre Root.Timbres append value {"name":"Minecraft Guitar","block_id":"#muit.timbre:minecraft_guitar","timbre_id":"minecraft:block.note_block.guitar"}
+data modify storage muit:timbre Root.Timbres append value {"name":"Minecraft Guitar","block_id":"minecraft:white_wool","timbre_id":"minecraft:block.note_block.guitar"}
 
-data modify storage muit:timbre Root.Timbres append value {"name":"Minecraft Bass","block_id":"#minecraft:oak_logs","timbre_id":"minecraft:block.note_block.bass"}
+data modify storage muit:timbre Root.Timbres append value {"name":"Minecraft Bass","block_id":"minecraft:oak_log","timbre_id":"minecraft:block.note_block.bass"}
 
 data modify storage muit:timbre Root.Timbres append value {"name":"Minecraft Basedrum","block_id":"minecraft:stone","timbre_id":"minecraft:block.note_block.basedrum"}
 
