@@ -1,0 +1,10 @@
+{
+    "criteria": {
+      "note_block": {
+        "trigger": "minecraft:impossible"
+      }
+    },
+    "rewards": {
+      "function": "muit:data/instrument/trigger"
+    }
+  }
