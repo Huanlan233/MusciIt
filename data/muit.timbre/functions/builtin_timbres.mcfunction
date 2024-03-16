@@ -1,1 +1,0 @@
-function muit.timbre:timbres/minecraft_timbres
