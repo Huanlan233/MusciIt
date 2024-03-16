@@ -3,6 +3,15 @@
       "note_block": {
         "trigger": "minecraft:placed_block",
         "conditions": {
+          "player": [
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "nbt": "{SelectedItem:{tag:{Muit:{}}}}"
+              }
+            }
+          ],
           "location": [
             {
                 "condition": "block_state_property",
