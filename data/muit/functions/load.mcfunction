@@ -5,8 +5,8 @@ forceload add 28438400 28438400
 scoreboard objectives add muit.const dummy
 scoreboard objectives add muit.notes_put used:redstone_lamp
 scoreboard objectives add muit.range dummy
-scoreboard objectives add muit.basic_tone dummy
-scoreboard objectives add muit.tone dummy
+scoreboard objectives add muit.basic_pitch dummy
+scoreboard objectives add muit.pitch dummy
 scoreboard objectives add muit.slot8detect dummy
 
 scoreboard players set $timbres_init muit.const 0
