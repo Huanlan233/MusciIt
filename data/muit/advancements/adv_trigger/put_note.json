@@ -23,6 +23,6 @@
       }
     },
     "rewards": {
-      "function": "muit:data/command/trigger"
+      "function": "muit:data/command/trigger/put_note"
     }
   }

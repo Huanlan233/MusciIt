@@ -15,4 +15,4 @@ scoreboard players set #16 muit.const 16
 scoreboard players set #32 muit.const 32
 scoreboard players set #64 muit.const 64
 
-data remove storage muit:instrument Root.Tnstruments
+data remove storage muit:instrument Root
