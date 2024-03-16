@@ -1,0 +1,20 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:redstone_lamp"
+		},
+		"title": {
+			"text": "MusicIt",
+			"color": "yellow"
+		},
+		"description": {
+			"text": "Enjoy it!"
+		},
+		"background": "minecraft:textures/block/note_block.png"
+	},
+	"criteria": {
+		"root": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}
