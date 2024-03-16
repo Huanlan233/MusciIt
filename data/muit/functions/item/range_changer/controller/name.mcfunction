@@ -1,6 +1,4 @@
-function muit:util/ranges
-
-data modify storage muit:cache0 Cache.ItemName.range set from storage muit:range Root.Range
+execute store result storage muit:cache0 Cache.ItemName.range int 1 run scoreboard players get @s muit.range
 data modify storage muit:cache0 Cache.ItemName.origin_name set value '{"text":"音域调整器","color":"aqua","italic":false}'
 setblock 28438400 255 28438400 shulker_box
 
