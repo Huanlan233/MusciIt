@@ -17,7 +17,7 @@
               },
               {
                 "function": "set_nbt",
-                "tag": "{Muit:{note:'D#',basic_tone:0.105112051907d,note_sharps:1},Unbreakable:1b,Enchantments:[{id:\"minecraft:binding_curse\",lvl:1s}],HideFlags:255}"
+                "tag": "{Muit:{note:'D#',basic_pitch:0.105112051907d,note_sharps:1},Unbreakable:1b,Enchantments:[{id:\"minecraft:binding_curse\",lvl:1s}],HideFlags:255}"
               }
             ]
           }
