@@ -5,6 +5,6 @@
       }
     },
     "rewards": {
-      "function": "muit:data/instrument/trigger"
+      "function": "muit:data/instrument/trigger/change_instrument"
     }
   }

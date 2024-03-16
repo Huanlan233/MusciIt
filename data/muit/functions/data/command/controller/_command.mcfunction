@@ -1,1 +1,0 @@
-$data modify storage muit:data Root.Data.command set value "/playsound $(sound) record @a ~ ~ ~ 2 $(pitch)"
