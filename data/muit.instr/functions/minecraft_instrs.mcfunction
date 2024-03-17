@@ -1,8 +1,8 @@
 # 仅选取部分方块作为原版音色
 
-data modify storage muit:instrument Root.Instruments append value {"name":"Minecraft Hat","block_id":"#muit.timbre:minecraft_hat","sounds":{"main":"minecraft:block.note_block.hat"}}
+data modify storage muit:instrument Root.Instruments append value {"name":"Minecraft Hat","block_id":"#muit.instr:minecraft_hat","sounds":{"main":"minecraft:block.note_block.hat"}}
 
-data modify storage muit:instrument Root.Instruments append value {"name":"Minecraft Guitar","block_id":"#muit.timbre:minecraft_guitar","sounds":{"main":"minecraft:block.note_block.guitar"}}
+data modify storage muit:instrument Root.Instruments append value {"name":"Minecraft Guitar","block_id":"#muit.instr:minecraft_guitar","sounds":{"main":"minecraft:block.note_block.guitar"}}
 
 data modify storage muit:instrument Root.Instruments append value {"name":"Minecraft Bass","block_id":"#minecraft:oak_logs","sounds":{"main":"minecraft:block.note_block.bass"}}
 
