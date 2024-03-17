@@ -1,8 +1,8 @@
-<p align="center"> <img src="./pack.png"> </p>
+<p align="center"> <img src="./img/banner.png"> </p>
 
 <div align="center">
 
-# MusicIt
+# _MusicIt_
 
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable-next-line MD036 -->
