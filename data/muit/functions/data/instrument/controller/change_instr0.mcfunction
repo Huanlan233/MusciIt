@@ -4,7 +4,7 @@ data modify storage muit:cache0 Cache.Instruments set from storage muit:instrume
 scoreboard objectives add muit.cache1 dummy
 $setblock 28438402 255 28438400 $(id)
 
-function muit:data/instrument/controller/instr_replace1
+function muit:data/instrument/controller/change_instr1
 
 # 缓存回收
 scoreboard objectives remove muit.cache1
