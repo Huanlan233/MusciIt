@@ -23,6 +23,6 @@
     }
   },
   "rewards": {
-    "function": "muit:block/note_block/trigger/note_block_put"
+    "function": "muit:block/note_block/trigger/put_note_block"
   }
 }
