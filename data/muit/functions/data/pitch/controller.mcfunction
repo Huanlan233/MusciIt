@@ -1,4 +1,5 @@
 execute if data entity @s SelectedItem.tag.Muit.note store result score @s muit.basic_pitch run data get entity @s SelectedItem.tag.Muit.basic_pitch 10000000
+
 execute store result score $sound_range muit.basic_pitch run data get storage muit:data Root.Command.sound_range
 
 scoreboard players operation @s muit.pitch = @s muit.basic_pitch
