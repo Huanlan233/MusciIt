@@ -74,4 +74,4 @@ _Minecraft 红石音乐辅助制作工具_
 
 ## 资源包&音色扩展
 
-详看[WIKI](https://github.com/Huanlan233/MusicIt/wiki)。（暂未完工）
+详看[WIKI](https://github.com/Huanlan233/MusicIt/wiki)。
