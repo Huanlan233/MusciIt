@@ -1,6 +1,6 @@
 {
     "values": [
         "muit:load",
-        "#muit.instr:instruments"
+        "muit.instr:load"
     ]
 }
